@@ -1,6 +1,6 @@
-# ng undefined
+# Homework assignment IBM
 # Description
-gns,
+A read me generator which automatically sets up a read me file.
 # Table of contents
 * [Installation](#installation) 
 * [usage](#usage)
@@ -10,16 +10,16 @@ gns,
 * [Github](#github)
 * [Email](#email)
 # Installation
-gngng
+Use for good purposes.
 # Usage
-gnglgklg
+Use for good purposes.
 # Contribution guidelines
-ggnng
+Use for good purposes.
 # Test instructions
-gngng
+Use for good purposes.
 # license
-gngn is the license that this this application is covered under.
+IBM is the license that this this application is covered under.
 # Questions
-Here is my gitHub.[Guthub](https://github.com/gngng)
-Here is my email.gngn
+* My gitHub.[Github](https://github.com/mohamedabukar)
+* Here is my email. mohamed.h.abukar@gmail.com
     

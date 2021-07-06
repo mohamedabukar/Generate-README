@@ -60,7 +60,7 @@ inquirer
 // TODO: Create a function to write README file
 function writeToFile(README, response) {
     var writeFile = 
-`# ${response.title} ${response.License}
+`# ${response.title} ${response.license}
 # Description
 ${response.description}
 # Table of contents
@@ -83,7 +83,7 @@ ${response.test}
 ${response.license} is the license that this this application is covered under.
 # Questions
 * My gitHub.[Github](https://github.com/${response.github})
-* Here is my email.${response.email}
+* Here is my email. ${response.email}
     `
     fs.writeFile(README,writeFile, (err) => {
         if (err) throw err;
