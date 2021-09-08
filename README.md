@@ -1,6 +1,6 @@
-# Homework assignment IBM
+# Book Search N/A
 # Description
-A read me generator which automatically sets up a read me file.
+This is an application that allows for users to login to an account or create one, search up books, save books to their profile and delete the books off of their profile. 
 # Table of contents
 * [Installation](#installation) 
 * [usage](#usage)
@@ -10,15 +10,15 @@ A read me generator which automatically sets up a read me file.
 * [Github](#github)
 * [Email](#email)
 # Installation
-Use for good purposes.
+Clone the repo then run it locally or just use the link for the heroku app.
 # Usage
-Use for good purposes.
+Create an account and save books to your profile 
 # Contribution guidelines
-Use for good purposes.
+N/A
 # Test instructions
-Use for good purposes.
+TO test the app, you can try to create a profile or save and delete books form your profile.
 # license
-IBM is the license that this this application is covered under.
+N/A is the license that this this application is covered under.
 # Questions
 * My gitHub.[Github](https://github.com/mohamedabukar)
 * Here is my email. mohamed.h.abukar@gmail.com
